@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Glenn&#x27;s Game Development Blog</title>
-    <link href="https://github.com/GlennSong/personalblog.git/feed.xml" rel="self" />
-    <link href="https://github.com/GlennSong/personalblog.git" />
+    <link href="https://glennsong.github.io/personalblog/feed.xml" rel="self" />
+    <link href="https://glennsong.github.io/personalblog" />
     <updated>2021-04-04T12:34:12-07:00</updated>
     <author>
         <name>Glenn Song</name>
     </author>
-    <id>https://github.com/GlennSong/personalblog.git</id>
+    <id>https://glennsong.github.io/personalblog</id>
 
     <entry>
         <title>Hello World</title>
         <author>
             <name>Glenn Song</name>
         </author>
-        <link href="https://github.com/GlennSong/personalblog.git/test-post/"/>
-        <id>https://github.com/GlennSong/personalblog.git/test-post/</id>
+        <link href="https://glennsong.github.io/personalblog/test-post/"/>
+        <id>https://glennsong.github.io/personalblog/test-post/</id>
 
         <updated>2021-04-04T12:34:12-07:00</updated>
             <summary>
