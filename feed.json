@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Glenn&#x27;s Game Development Blog",
+    "description": "",
+    "home_page_url": "https://github.com/GlennSong/personalblog.git",
+    "feed_url": "https://github.com/GlennSong/personalblog.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Glenn Song"
+    },
+    "items": [
+        {
+            "id": "https://github.com/GlennSong/personalblog.git/test-post.html",
+            "url": "https://github.com/GlennSong/personalblog.git/test-post.html",
+            "title": "Hello World",
+            "summary": " This is my first post I'm testing out publii. ",
+            "content_html": "\n    <h2 id=\"this-is-my-first-post\">\n      This is my first post\n    </h2>\n\n  <p>\n    I'm testing out publii.\n  </p>",
+            "author": {
+                "name": "Glenn Song"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-30T21:46:43-07:00",
+            "date_modified": "2021-04-04T12:34:12-07:00"
+        }
+    ]
+}

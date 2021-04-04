@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Glenn&#x27;s Game Development Blog</title>
+    <link href="https://github.com/GlennSong/personalblog.git/feed.xml" rel="self" />
+    <link href="https://github.com/GlennSong/personalblog.git" />
+    <updated>2021-04-04T12:34:12-07:00</updated>
+    <author>
+        <name>Glenn Song</name>
+    </author>
+    <id>https://github.com/GlennSong/personalblog.git</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Glenn Song</name>
+        </author>
+        <link href="https://github.com/GlennSong/personalblog.git/test-post.html"/>
+        <id>https://github.com/GlennSong/personalblog.git/test-post.html</id>
+
+        <updated>2021-04-04T12:34:12-07:00</updated>
+            <summary>
+                <![CDATA[
+                     This is my first post I'm testing out publii. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="this-is-my-first-post">
+      This is my first post
+    </h2>
+
+  <p>
+    I'm testing out publii.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
