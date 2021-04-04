@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://github.com/GlennSong/personalblog.git/test-post.html",
-            "url": "https://github.com/GlennSong/personalblog.git/test-post.html",
+            "id": "https://github.com/GlennSong/personalblog.git/test-post/",
+            "url": "https://github.com/GlennSong/personalblog.git/test-post/",
             "title": "Hello World",
             "summary": " This is my first post I'm testing out publii. ",
             "content_html": "\n    <h2 id=\"this-is-my-first-post\">\n      This is my first post\n    </h2>\n\n  <p>\n    I'm testing out publii.\n  </p>",
